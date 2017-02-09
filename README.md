@@ -48,6 +48,12 @@ when you are just too awesome for subcategories
 ## Java
 * [Java/Scala/JEE Tutorials](http://java2s.com/)
 
+## Erlang
+* [OTP Design Principles](http://erlang.org/doc/design_principles/des_princ.html)
+
+## GO
+* [Go Best Practices, Six Years In](https://peter.bourgon.org/go-best-practices-2016/)
+
 ## Web Servers
 * [Apache vs. Nginx, etc](http://stackoverflow.com/questions/4113299/ruby-on-rails-server-options#answer-4113570)
 * [Scaling Ruby Apps to 1000 Requests per Minute](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
