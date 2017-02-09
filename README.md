@@ -2,9 +2,8 @@
 when you are just too awesome for subcategories
 
 # Front-End Web Development
-
 ## Libraries
-* [Bootstrap](http://getbootstrap.com/)
+* [bootstrap](http://getbootstrap.com/)
 * [font-awesome](http://fontawesome.io/)
 * [reactjs](https://facebook.github.io/react/)
 * [reduxjs](http://redux.js.org/)
@@ -12,6 +11,7 @@ when you are just too awesome for subcategories
 * [less](http://lesscss.org/)
 * [sass](http://sass-lang.com/)
 * [webpack](https://webpack.github.io/)
+* [d3js](https://d3js.org/)
 
 ## Bootstrap
 * [Erik Flowers' Bootstrap Tutorials](http://www.helloerik.com/the-arrival-of-bootstrap-4-and-tutorials)
@@ -21,27 +21,29 @@ when you are just too awesome for subcategories
 * [CSS Tricks: position](https://css-tricks.com/almanac/properties/p/position/)
 
 # Back-End Web Development
-
 ## Ruby Libraries
 * [Rack](http://rack.github.io/)
+
+## Ruby
+* [Flowchart: How Should I Launch a Subprocess?](https://i.stack.imgur.com/1Vuvp.png)
 
 ## Web Servers
 * [Apache vs. Nginx, etc](http://stackoverflow.com/questions/4113299/ruby-on-rails-server-options#answer-4113570)
 * [Scaling Ruby Apps to 1000 Requests per Minute](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
 
 # Cryptography/Security
-
 * [Salted Password Hashing - Doing It Right](https://crackstation.net/hashing-security.htm)
 * [Understanding SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 * [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
 
 # Infrastructure
-
 * [kubernetes](https://kubernetes.io/)
 * [docker](https://www.docker.com/)
 
-# Systems Programming
+# Linux
+* [Learning the Shell](http://linuxcommand.org/learning_the_shell.php)
 
+# Systems Programming
 ## Computer Architecture
 * [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer/home/info)
 
