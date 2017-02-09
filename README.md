@@ -82,6 +82,7 @@ when you are just too awesome for subcategories
 * [Dheeraj Sanghi's CS425 Lecture Notes](http://www.cse.iitk.ac.in/users/dheeraj/cs425/)
 * [Julia Evans' Networking Zine](http://jvns.ca/networking-zine.pdf)
 * [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+* [Beej's Guide to Socket Programming](http://beej.us/net2/html/index.html)
 
 # Data Structures
 * [Hash Table Collision Handling](http://www.csl.mtu.edu/cs2321/www/newLectures/17_Hash_Tables_Collisions.html)
