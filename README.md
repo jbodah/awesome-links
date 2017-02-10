@@ -63,6 +63,7 @@ when you are just too awesome for subcategories
 * [Salted Password Hashing - Doing It Right](https://crackstation.net/hashing-security.htm)
 * [Understanding SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 * [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
+* [Hack This Site](https://www.hackthissite.org/)
 
 # Infrastructure
 * [kubernetes](https://kubernetes.io/)
