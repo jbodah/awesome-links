@@ -12,6 +12,7 @@ when you are just too awesome for subcategories
 * [sass](http://sass-lang.com/)
 * [webpack](https://webpack.github.io/)
 * [d3js](https://d3js.org/)
+* [mnemonist - data structures](https://yomguithereal.github.io/mnemonist/)
 
 ## Performance
 * [JavaScript Start-up Performance](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.m1j80zwmi)
