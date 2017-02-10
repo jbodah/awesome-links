@@ -65,6 +65,9 @@ when you are just too awesome for subcategories
 * [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
 * [Hack This Site](https://www.hackthissite.org/)
 
+# Auth
+* [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
+
 # Infrastructure
 * [kubernetes](https://kubernetes.io/)
 * [docker](https://www.docker.com/)
@@ -74,6 +77,7 @@ when you are just too awesome for subcategories
 * [BASH Programming Introduction](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
 * [60 Commands of Linux: A Newbie's Guide](http://www.tecmint.com/60-commands-of-linux-a-guide-from-newbies-to-system-administrator/)
 * [Linux System Administation Basics](https://www.linode.com/docs/tools-reference/linux-system-administration-basics)
+* [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/pub/fhs-2.3.html)
 
 # Systems Programming
 ## Computer Architecture
@@ -93,6 +97,10 @@ when you are just too awesome for subcategories
 * [Architecture of Open Source Applciations](http://aosabook.org/en/index.html)
 * [7 Lessons Learned While Building Reddit to 270 Million Page Views a Month](http://highscalability.com/blog/2010/5/17/7-lessons-learned-while-building-reddit-to-270-million-page.html)
 * [SOA in Ruby](http://codeincomplete.com/posts/soa/)
+
+# Text Editors
+## Vim
+* [Vimscript function reference](http://ricostacruz.com/cheatsheets/vimscript-functions.html)
 
 # Random Shit
 * [Build Your Own Command Line](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
