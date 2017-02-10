@@ -13,6 +13,9 @@ when you are just too awesome for subcategories
 * [webpack](https://webpack.github.io/)
 * [d3js](https://d3js.org/)
 
+## Performance
+* [JavaScript Start-up Performance](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.m1j80zwmi)
+
 ## Bootstrap
 * [Erik Flowers' Bootstrap Tutorials](http://www.helloerik.com/the-arrival-of-bootstrap-4-and-tutorials)
 * [Bootsnipp](http://bootsnipp.com/)
