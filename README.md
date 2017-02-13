@@ -85,6 +85,7 @@ when you are just too awesome for subcategories
 * [60 Commands of Linux: A Newbie's Guide](http://www.tecmint.com/60-commands-of-linux-a-guide-from-newbies-to-system-administrator/)
 * [Linux System Administation Basics](https://www.linode.com/docs/tools-reference/linux-system-administration-basics)
 * [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/pub/fhs-2.3.html)
+* [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 
 # Systems Programming
 ## Computer Architecture
