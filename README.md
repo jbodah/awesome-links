@@ -54,9 +54,11 @@ when you are just too awesome for subcategories
 
 ## Erlang
 * [OTP Design Principles](http://erlang.org/doc/design_principles/des_princ.html)
+* [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/)
 
-## GO
+## Go
 * [Go Best Practices, Six Years In](https://peter.bourgon.org/go-best-practices-2016/)
+* [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
 
 ## Web Servers
 * [Apache vs. Nginx, etc](http://stackoverflow.com/questions/4113299/ruby-on-rails-server-options#answer-4113570)
@@ -96,6 +98,9 @@ when you are just too awesome for subcategories
 * [Julia Evans' Networking Zine](http://jvns.ca/networking-zine.pdf)
 * [How Does the Internet Work?](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
 * [Beej's Guide to Socket Programming](http://beej.us/net2/html/index.html)
+
+## Operating Systems
+* [The little book about OS development](https://littleosbook.github.io/)
 
 # Data Structures
 * [Hash Table Collision Handling](http://www.csl.mtu.edu/cs2321/www/newLectures/17_Hash_Tables_Collisions.html)
