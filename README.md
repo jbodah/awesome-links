@@ -63,6 +63,9 @@ when you are just too awesome for subcategories
 * [Scaling Ruby Apps to 1000 Requests per Minute](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
 * [Apache vs. Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
 
+# Algorithms
+* [Algorithms in the "Real World"](http://www.cs.cmu.edu/~guyb/realworld.html)
+
 # Cryptography/Security
 * [Salted Password Hashing - Doing It Right](https://crackstation.net/hashing-security.htm)
 * [Understanding SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
