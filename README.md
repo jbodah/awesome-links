@@ -115,6 +115,20 @@ when you are just too awesome for subcategories
 ## Vim
 * [Vimscript function reference](http://ricostacruz.com/cheatsheets/vimscript-functions.html)
 
+# Video Processing
+## Compression Specifications
+* [Video Coding Format Wikipedia page](https://en.wikipedia.org/wiki/Video_coding_format)
+* [Cinepak Wikipedia page](https://en.wikipedia.org/wiki/Cinepak)
+* [Cinepak MultimediaWiki page](https://wiki.multimedia.cx/index.php/Cinepak)
+
+## Fundamentals
+* [Basic Concepts in Information Theory](http://www-public.tem-tsp.eu/~uro/cours-pdf/poly.pdf)
+
+## Other
+* [Image and Video Compression: A Survey](https://pdfs.semanticscholar.org/53d3/11ffb10b28abd1b757c7150ba707ce44b624.pdf)
+* [A Survey of Data Compression Algorithms and their Applications](https://www.researchgate.net/profile/Mohammad_Hosseini7/publication/270408593_A_Survey_of_Data_Compression_Algorithms_and_their_Applications/links/54aa3afe0cf257a6360d5ed5.pdf)
+* [Comparison of Video Codecs](https://en.wikipedia.org/wiki/Comparison_of_video_codecs)
+
 # Random Shit
 * [Build Your Own Command Line](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
