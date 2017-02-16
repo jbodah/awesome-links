@@ -120,6 +120,16 @@ when you are just too awesome for subcategories
 * [Video Coding Format Wikipedia page](https://en.wikipedia.org/wiki/Video_coding_format)
 * [Cinepak Wikipedia page](https://en.wikipedia.org/wiki/Cinepak)
 * [Cinepak MultimediaWiki page](https://wiki.multimedia.cx/index.php/Cinepak)
+* [MPEG-1 Wikipedia page](https://en.wikipedia.org/wiki/MPEG-1)
+* [MPEG-2 Wikipedia page](https://en.wikipedia.org/wiki/MPEG-2)
+* [H.261 Wikipedia page](https://en.wikipedia.org/wiki/H.261)
+* [H.262/MPEG-2 Part 2 Wikipedia page](https://en.wikipedia.org/wiki/H.262/MPEG-2_Part_2)
+* [H.263 Wikipedia page](https://en.wikipedia.org/wiki/H.263)
+* [MPEG-4 Wikipedia page](https://en.wikipedia.org/wiki/MPEG-4)
+* [MPEG-4 Part 2 Wikipedia page](https://en.wikipedia.org/wiki/MPEG-4_Part_2)
+* [H.264/MPEG-4 AVC Wikipedia page](https://en.wikipedia.org/wiki/H.264/MPEG-4_AVC)
+* [MPEG-H Wikipedia page](https://en.wikipedia.org/wiki/MPEG-H)
+* [H.265/MPEG-H Part 2 Wikipedia page](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 
 ## Fundamentals
 * [Basic Concepts in Information Theory](http://www-public.tem-tsp.eu/~uro/cours-pdf/poly.pdf)
