@@ -73,6 +73,7 @@ when you are just too awesome for subcategories
 * [Understanding SSH](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
 * [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
 * [Hack This Site](https://www.hackthissite.org/)
+* [UUID Specification (RFC4122)](https://www.ietf.org/rfc/rfc4122.txt)
 
 # Auth
 * [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
