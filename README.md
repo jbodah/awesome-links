@@ -55,6 +55,7 @@ when you are just too awesome for subcategories
 ## Erlang
 * [OTP Design Principles](http://erlang.org/doc/design_principles/des_princ.html)
 * [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/)
+* [Erlang Rationale](https://confreaks.tv/videos/elixirconf2014-erlang-rationale)
 
 ## Go
 * [Go Best Practices, Six Years In](https://peter.bourgon.org/go-best-practices-2016/)
