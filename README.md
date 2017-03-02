@@ -83,6 +83,9 @@ when you are just too awesome for subcategories
 * [kubernetes](https://kubernetes.io/)
 * [docker](https://www.docker.com/)
 
+# Git
+* [Flowchart for fixing/removing/undoing changes in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+
 # Linux
 * [Learning the Shell](http://linuxcommand.org/learning_the_shell.php)
 * [BASH Programming Introduction](http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)
