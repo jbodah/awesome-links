@@ -13,6 +13,7 @@ when you are just too awesome for subcategories
 * [webpack](https://webpack.github.io/)
 * [d3js](https://d3js.org/)
 * [mnemonist - data structures](https://yomguithereal.github.io/mnemonist/)
+* [Build a modern JS stack from scratch](https://github.com/verekia/js-stack-from-scratch)
 
 ## Performance
 * [JavaScript Start-up Performance](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.m1j80zwmi)
