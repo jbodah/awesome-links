@@ -152,6 +152,8 @@ when you are just too awesome for subcategories
 * [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
 * [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
 * [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
+* [Computer Vision: Models, Learning, & Inference (Prince)](http://www.computervisionmodels.com/)
+* [Computer Vision: Algorithms & Applications (Szeliski)](http://szeliski.org/Book/)
 
 # Random Shit
 * [Build Your Own Command Line](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
