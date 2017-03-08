@@ -147,6 +147,12 @@ when you are just too awesome for subcategories
 * [A Survey of Data Compression Algorithms and their Applications](https://www.researchgate.net/profile/Mohammad_Hosseini7/publication/270408593_A_Survey_of_Data_Compression_Algorithms_and_their_Applications/links/54aa3afe0cf257a6360d5ed5.pdf)
 * [Comparison of Video Codecs](https://en.wikipedia.org/wiki/Comparison_of_video_codecs)
 
+## Textbooks
+* [Clojure for the Brave and True](http://www.braveclojure.com/foreword/)
+* [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
+* [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+* [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
+
 # Random Shit
 * [Build Your Own Command Line](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
