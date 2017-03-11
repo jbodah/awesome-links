@@ -39,7 +39,7 @@ when you are just too awesome for subcategories
 ## Stock Photos
 * [Unsplash](https://unsplash.com/)
 * [SplitShare](https://www.splitshire.com/)
-* [Gratisography](https://www.splitshire.com/)
+* [Gratisography](https://www.gratisography.com/)
 * [Magdeleine](http://magdeleine.co/browse/)
 * [Pexels](https://www.pexels.com/)
 
