@@ -57,6 +57,7 @@ when you are just too awesome for subcategories
 * [OTP Design Principles](http://erlang.org/doc/design_principles/des_princ.html)
 * [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/)
 * [Erlang Rationale](https://confreaks.tv/videos/elixirconf2014-erlang-rationale)
+* [Erlang in Anger](https://www.erlang-in-anger.com/)
 
 ## Go
 * [Go Best Practices, Six Years In](https://peter.bourgon.org/go-best-practices-2016/)
@@ -86,6 +87,7 @@ when you are just too awesome for subcategories
 
 # Git
 * [Flowchart for fixing/removing/undoing changes in git](https://sethrobertson.github.io/GitFixUm/fixup.html)
+* [Git Internals](https://git-scm.com/book/en/v1/Git-Internals)
 
 # Linux
 * [Learning the Shell](http://linuxcommand.org/learning_the_shell.php)
