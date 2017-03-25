@@ -81,6 +81,7 @@ when you are just too awesome for subcategories
 * [7 Security Measures to Protect Your Servers](https://www.digitalocean.com/community/tutorials/7-security-measures-to-protect-your-servers)
 * [Hack This Site](https://www.hackthissite.org/)
 * [UUID Specification (RFC4122)](https://www.ietf.org/rfc/rfc4122.txt)
+* [Erlang Security 101](https://www.nccgroup.trust/uk/our-research/erlang-security-101/)
 
 # Auth
 * [The OAuth 2.0 Authorization Framework](https://tools.ietf.org/html/rfc6749)
