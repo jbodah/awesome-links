@@ -43,6 +43,10 @@ when you are just too awesome for subcategories
 * [Magdeleine](http://magdeleine.co/browse/)
 * [Pexels](https://www.pexels.com/)
 
+## SEO
+
+* [Google Search Engine Optimization Start Guide](https://static.googleusercontent.com/media/www.google.com/en//webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
 # Back-End Web Development
 ## Ruby Libraries
 * [Rack](http://rack.github.io/)
