@@ -146,6 +146,10 @@ when you are just too awesome for subcategories
 * [MPEG-H Wikipedia page](https://en.wikipedia.org/wiki/MPEG-H)
 * [H.265/MPEG-H Part 2 Wikipedia page](https://en.wikipedia.org/wiki/High_Efficiency_Video_Coding)
 
+## Business
+
+* [Choose Your Business Structure](https://www.entrepreneur.com/article/38822)
+
 ## Fundamentals
 * [Basic Concepts in Information Theory](http://www-public.tem-tsp.eu/~uro/cours-pdf/poly.pdf)
 
