@@ -76,7 +76,11 @@ when you are just too awesome for subcategories
 * [HTTP/1.1 RFC](https://tools.ietf.org/html/rfc2616)
 * [CGI 1.1 RFC](https://tools.ietf.org/html/rfc3875)
 * [HTML 5.1 Spec](https://www.w3.org/TR/html51/)
-* [WebSocker Protocol RFC](https://tools.ietf.org/html/rfc6455)
+* [TLS RFC](https://tools.ietf.org/html/rfc2246)
+* [WebSocket Protocol RFC](https://tools.ietf.org/html/rfc6455)
+* [TCP Spec](https://tools.ietf.org/html/rfc793)
+* [IP Spec](https://tools.ietf.org/html/rfc791)
+* [ICMP Spec](https://tools.ietf.org/html/rfc792)
 * [Getting Started with WebRTC](https://www.html5rocks.com/en/tutorials/webrtc/basics/)
 
 # Algorithms
