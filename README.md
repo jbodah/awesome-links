@@ -72,6 +72,12 @@ when you are just too awesome for subcategories
 * [Scaling Ruby Apps to 1000 Requests per Minute](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
 * [Apache vs. Nginx: Practical Considerations](https://www.digitalocean.com/community/tutorials/apache-vs-nginx-practical-considerations)
 
+## Web Tech
+* [HTTP/1.1 RFC](https://tools.ietf.org/html/rfc2616)
+* [CGI 1.1 RFC](https://tools.ietf.org/html/rfc3875)
+* [HTML 5.1 Spec](https://www.w3.org/TR/html51/)
+* [WebSocker Protocol RFC](https://tools.ietf.org/html/rfc6455)
+
 # Algorithms
 * [Algorithms in the "Real World"](http://www.cs.cmu.edu/~guyb/realworld.html)
 
