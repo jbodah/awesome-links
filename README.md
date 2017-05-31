@@ -113,6 +113,7 @@ when you are just too awesome for subcategories
 * [Filesystem Hierarchy Standard](http://www.pathname.com/fhs/pub/fhs-2.3.html)
 * [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0)
 * [Using psuedo-terminals to control interactive programs](http://rachid.koucha.free.fr/tech_corner/pty_pdip.html)
+* [configure; make; make install](http://www.tldp.org/LDP/LG/current/smith.html)
 
 # Systems Programming
 ## Computer Architecture
