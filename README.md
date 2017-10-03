@@ -129,6 +129,9 @@ when you are just too awesome for subcategories
 ## Operating Systems
 * [The little book about OS development](https://littleosbook.github.io/)
 
+## Distributed Systems
+* [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+
 # Data Structures
 * [Hash Table Collision Handling](http://www.csl.mtu.edu/cs2321/www/newLectures/17_Hash_Tables_Collisions.html)
 
