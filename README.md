@@ -119,6 +119,7 @@ when you are just too awesome for subcategories
 ## Computer Architecture
 * [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer/home/info)
 * [PC Assembly Language](http://www.cs.columbia.edu/~junfeng/13fa-w4118/readings/pcasm-book.pdf)
+* [Software Optimization Resources](http://www.agner.org/optimize/)
 
 ## Networking
 * [Dheeraj Sanghi's CS425 Lecture Notes](http://www.cse.iitk.ac.in/users/dheeraj/cs425/)
