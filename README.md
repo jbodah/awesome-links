@@ -118,6 +118,7 @@ when you are just too awesome for subcategories
 # Systems Programming
 ## Computer Architecture
 * [From Nand to Tetris](https://www.coursera.org/learn/build-a-computer/home/info)
+* [PC Assembly Language](http://www.cs.columbia.edu/~junfeng/13fa-w4118/readings/pcasm-book.pdf)
 
 ## Networking
 * [Dheeraj Sanghi's CS425 Lecture Notes](http://www.cse.iitk.ac.in/users/dheeraj/cs425/)
@@ -128,6 +129,7 @@ when you are just too awesome for subcategories
 
 ## Operating Systems
 * [The little book about OS development](https://littleosbook.github.io/)
+* [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 ## Distributed Systems
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
