@@ -71,6 +71,13 @@ when you are just too awesome for subcategories
 * [Learn Python in 10 Minutes](https://www.stavros.io/tutorials/python/)
 * [Python for Programmers](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html)
 
+## Clojure
+* [Clojure by Example](http://kimh.github.io/clojure-by-example/)
+* [Clojure for the Brave and True](http://www.braveclojure.com/foreword/)
+
+## Haskell
+* [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
+
 ## Web Servers
 * [Apache vs. Nginx, etc](http://stackoverflow.com/questions/4113299/ruby-on-rails-server-options#answer-4113570)
 * [Scaling Ruby Apps to 1000 Requests per Minute](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
@@ -181,10 +188,6 @@ when you are just too awesome for subcategories
 * [Comparison of Video Codecs](https://en.wikipedia.org/wiki/Comparison_of_video_codecs)
 
 ## Textbooks
-* [Clojure for the Brave and True](http://www.braveclojure.com/foreword/)
-* [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com/content)
-* [Learn You a Haskell for Great Good](http://learnyouahaskell.com/chapters)
-* [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
 * [Computer Vision: Models, Learning, & Inference (Prince)](http://www.computervisionmodels.com/)
 * [Computer Vision: Algorithms & Applications (Szeliski)](http://szeliski.org/Book/)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
