@@ -183,6 +183,9 @@ when you are just too awesome for subcategories
 * [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
 * [Computer Vision: Models, Learning, & Inference (Prince)](http://www.computervisionmodels.com/)
 * [Computer Vision: Algorithms & Applications (Szeliski)](http://szeliski.org/Book/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+* [An Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf)
+* [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 # Random Shit
 * [Build Your Own Command Line](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
