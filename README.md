@@ -67,6 +67,10 @@ when you are just too awesome for subcategories
 * [Go Best Practices, Six Years In](https://peter.bourgon.org/go-best-practices-2016/)
 * [The Little Go Book](http://openmymind.net/The-Little-Go-Book/)
 
+## Python
+* [Learn Python in 10 Minutes](https://www.stavros.io/tutorials/python/)
+* [Python for Programmers](http://python-3-patterns-idioms-test.readthedocs.io/en/latest/PythonForProgrammers.html)
+
 ## Web Servers
 * [Apache vs. Nginx, etc](http://stackoverflow.com/questions/4113299/ruby-on-rails-server-options#answer-4113570)
 * [Scaling Ruby Apps to 1000 Requests per Minute](https://www.speedshop.co/2015/07/29/scaling-ruby-apps-to-1000-rpm.html)
