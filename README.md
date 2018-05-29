@@ -201,3 +201,4 @@ when you are just too awesome for subcategories
 * [VimGolf](https://vimgolf.com/)
 * [Writing a reverse proxy/loadbalancer from the ground up in C](http://www.gilesthomas.com/2013/08/writing-a-reverse-proxyloadbalancer-from-the-ground-up-in-c-part-0/)
 * [Let's Build a Compiler](http://compilers.iecc.com/crenshaw/)
+* [Linux Performance](http://www.brendangregg.com/linuxperf.html)
