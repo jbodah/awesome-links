@@ -203,3 +203,4 @@ when you are just too awesome for subcategories
 * [Let's Build a Compiler](http://compilers.iecc.com/crenshaw/)
 * [Linux Performance](http://www.brendangregg.com/linuxperf.html)
 * [Understanding page faults and memory swapping](http://blog.scoutapp.com/articles/2015/04/10/understanding-page-faults-and-memory-swap-in-outs-when-should-you-worry)
+* [NoSQL Stores Compared](https://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis/)
