@@ -145,6 +145,7 @@ when you are just too awesome for subcategories
 
 ## Distributed Systems
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/)
+* [Raft: Understandable Distributed Consensus](http://thesecretlivesofdata.com/raft/)
 
 # Data Structures
 * [Hash Table Collision Handling](http://www.csl.mtu.edu/cs2321/www/newLectures/17_Hash_Tables_Collisions.html)
